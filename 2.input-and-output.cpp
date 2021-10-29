@@ -1,8 +1,8 @@
+//  https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
 #include <iostream>
 #include <string>
 using namespace std;
-
-//  https://www.hackerrank.com/challenges/cpp-input-and-output/problem
 
 int main ()
 {

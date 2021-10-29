@@ -1,8 +1,4 @@
-#include <iostream>
-using namespace std;
-
-/*
-https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
+/*  https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
 in:
 3 12345678912345 a 334.23 14049.30493
@@ -13,6 +9,9 @@ a
 334.230
 14049.304930000
 */
+
+#include <iostream>
+using namespace std;
 
 int main() {
     int i;
